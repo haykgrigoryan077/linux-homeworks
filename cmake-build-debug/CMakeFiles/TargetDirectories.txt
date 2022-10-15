@@ -1,0 +1,3 @@
+/home/hayk/Desktop/Linux_Homeworks/cmake-build-debug/CMakeFiles/Linux_Homeworks.dir
+/home/hayk/Desktop/Linux_Homeworks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hayk/Desktop/Linux_Homeworks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
