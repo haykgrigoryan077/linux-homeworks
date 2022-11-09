@@ -24,7 +24,7 @@ int main(int argc, char** argv)
     }
     std::string file1Read;
     char *BytesToRead[4096];
-    int bytesRead = read(file1, file1Read.data(), BytesToRead.size());
+    int bytesRead = read(file1, file1Read.data(), sizeof(BytesToRead));
     int file2 = open(argv[2], O_RDWR );
     if(file2 < 0){
         log_fatal(errno);
